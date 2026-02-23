@@ -1,0 +1,31 @@
+ 
+A:HOVER{
+  background-color : lime;
+}
+A{
+  text-decoration : none;
+}
+.Redbig{
+  font-weight : bold;
+  color : red;
+  font-size : 125%;
+}
+.Whitebig{
+  font-size : 125%;
+  font-weight : bold;
+  color : white;
+  text-align : center;
+}
+.BlueComment{
+  color : #8080ff;
+  text-align : center;
+  font-size : x-small;
+  
+}
+.BlueTitle{
+  font-weight : bold;
+  color : blue;
+  
+
+  
+}
